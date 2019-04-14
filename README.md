@@ -4,7 +4,7 @@ Auto Life is a project to try to automate any boring/repeating things in my life
 
 ## Installation
 
-Clone this repo and add `bin` folder to your path, example:
+Clone this repo and add this folder to your path, example:
 
 ``` shell
 PATH_AUTO_LIFE=~/.auto-life
