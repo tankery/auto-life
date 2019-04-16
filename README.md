@@ -35,3 +35,8 @@ This project is just in beginning, help it grow up!
 ## Acknowledgements
 
 The idea is brought from [Tyr Chen](https://github.com/tyrchen)'s WeChat article: [Code is Low](https://mp.weixin.qq.com/s/a-tUQSy5zT3qhd8mBy2HfA). Reading his writing are really a mind exploding experience.
+
+### Libraries
+
+- [Click](https://click.palletsprojects.com), a Python package for creating CLI using annotations.
+- [Jinja2](http://jinja.pocoo.org/), a template engine for Python
